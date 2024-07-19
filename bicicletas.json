@@ -1,0 +1,98 @@
+[
+    {
+        "id" : 1,
+        "marca" : "Fierce",
+        "modelo" : "FM18SI29AM211",
+        "rodado" : 16,
+        "anio" : 2019,
+        "color" : "Celeste",
+        "peso" : 13,
+        "tipo" : "Montañera",
+        "precio" : 3000,
+        "vendida" : false
+    },
+    {
+        "id" : 2,
+        "marca" : "Shifter",
+        "modelo" : "FM18F29AM210,",
+        "rodado" : 26,
+        "anio" : 2020,
+        "color" : "negro",
+        "peso" : 15,
+        "tipo" : "Paseo",
+        "precio" : 2500,
+        "vendida" : false
+    },
+    {
+        "id" : 3,
+        "marca" : "Olmo",
+        "modelo" : "Regal,",
+        "rodado" : 28,
+        "anio" : 2021,
+        "color" : "gris",
+        "peso" : 16,
+        "tipo" : "Retro",
+        "precio" : 1500,
+        "vendida" : false
+    },
+    {
+        "id" : 4,
+        "marca" : "Battle",
+        "modelo" : "Regal,",
+        "rodado" : 29,
+        "anio" : 2022,
+        "color" : "amarillo",
+        "peso" : 17,
+        "tipo" : "Triatlón",
+        "precio" : 1000,
+        "vendida" : true
+    },
+    {
+        "id" : 5,
+        "marca" : "TopMega",
+        "modelo" : "Sunshine,",
+        "rodado" : 29,
+        "anio" : 2023,
+        "color" : "rosa",
+        "peso" : 16,
+        "tipo" : "Montañera",
+        "precio" : 3000,
+        "vendida" : false
+    },
+    {
+        "id" : 6,
+        "marca" : "SLP",
+        "modelo" : "Techno,",
+        "rodado" : 26,
+        "anio" : 2020,
+        "color" : "rojo",
+        "peso" : 16,
+        "tipo" : "Montañera",
+        "precio" : 1000,
+        "vendida" : true
+    },
+    {
+        "id" : 7,
+        "marca" : "Halley",
+        "modelo" : "Baywatch",
+        "rodado" : 16,
+        "anio" : 2019,
+        "color" : "verde",
+        "peso" : 13,
+        "tipo" : "Retro",
+        "precio" : 500,
+        "vendida" : false
+    },
+    {
+        "id" : 8,
+        "marca" : "Fixie",
+        "modelo" : "Single R",
+        "rodado" : 28,
+        "anio" : 2019,
+        "color" : "rojo",
+        "peso" : 13,
+        "tipo" : "Naranja",
+        "precio" : 1200,
+        "vendida" : true
+    }
+]
